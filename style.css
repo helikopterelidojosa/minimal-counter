@@ -22,3 +22,7 @@ main{
 h1{
    font-size: 30vw; 
 }
+video{
+    height: 50px;
+    width: 300px;
+}
